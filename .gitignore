@@ -2,7 +2,7 @@
 *.blend1
 
 # Ignore output directories
-doc_templates/presentations/output
+doc_templates/presentations/LaTeX/output
 
 # Vim session file
 *session.vim
